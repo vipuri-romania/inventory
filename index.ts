@@ -1,2 +1,2 @@
-import jsonData from "./data.json";
-export default jsonData;
+const jsonData = require("./data.json");
+module.exports = jsonData;

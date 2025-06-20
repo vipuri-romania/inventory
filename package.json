@@ -1,6 +1,10 @@
 {
   "name": "@vipuri/inventory_data",
   "version": "1.0.0",
+  "type": "commonjs",
   "main": "index.ts",
-  "types": "index.d.ts"
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/node": "^24.0.3"
+  }
 }
