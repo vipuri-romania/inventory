@@ -58,7 +58,7 @@
     "id": "6",
     "name": "Spaghete",
     "description": "Spaghete cu Chiftele",
-    "image": "https://imgur.com/84z1wP2",
+    "image": "https://i.imgur.com/84z1wP2.png",
     "weight": 0.5,
     "itemType": "consumable",
     "isEquippable": false,
