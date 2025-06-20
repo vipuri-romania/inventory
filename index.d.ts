@@ -1,3 +1,5 @@
+import jsonData from "./index";
+
 declare module "@vipuri/inventory_data" {
   export const data: [
     {
@@ -12,4 +14,6 @@ declare module "@vipuri/inventory_data" {
       maxStack: number;
     }
   ];
+
+  export default jsonData;
 }
