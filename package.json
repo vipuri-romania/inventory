@@ -1,5 +1,6 @@
 {
   "name": "@vipuri/inventory_data",
   "version": "1.0.0",
+  "main": "index.ts",
   "types": "index.d.ts"
 }
