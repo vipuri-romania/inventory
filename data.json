@@ -58,7 +58,7 @@
     "id": "6",
     "name": "Spaghete",
     "description": "Spaghete cu Chiftele",
-    "image": "http://93.115.101.63/cdn/ragempserver/inventory-items/spaghete.png",
+    "image": "https://i.postimg.cc/qBLWfbHh/spaghete.png",
     "weight": 0.5,
     "itemType": "consumable",
     "isEquippable": false,
